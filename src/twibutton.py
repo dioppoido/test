@@ -2,7 +2,7 @@
 #-*- coding: utf-8 -*-
 #多田参上
 #土居参上
-
+#土田参上
 import RPi.GPIO as GPIO
 import time
 import os
