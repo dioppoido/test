@@ -1,6 +1,7 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
 #多田参上
+#土居参上
 
 import RPi.GPIO as GPIO
 import time
